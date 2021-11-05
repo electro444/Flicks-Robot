@@ -74,25 +74,24 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hey You, Im Manager And Music Player Bot`
-`Crated By` [Skyzo](https://t.me/XFLSkyzo)
+`Hi, I Am A Group Manager Bot 👑`
+`Crated By` [ELECTRO 444](https://t.me/ELECTRO_444)
 """
 
 buttons = [
         [
         InlineKeyboardButton(
-            text="➕️ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️", url="t.me/FlicksManagerBot?startgroup=true"),
+            text="➕️ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️", url="t.me/EO_GROUP_MANAGER_BOT?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="Kaneki_"),
         InlineKeyboardButton(
-            text="ᴄʜᴀɴɴᴇʟ ɪɴғᴏ", url=f"https://t.me/SadRoomsInfo"
+            text="ᴄʜᴀɴɴᴇʟ ɪɴғᴏ", url=f"https://t.me/eoinfoff"
         ),
     ],
     [
         InlineKeyboardButton(text="ɢʀᴏᴜᴘ sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/Userbot_Support_Id"),
         InlineKeyboardButton(
-            text="ᴄʀᴇᴀᴛᴏʀ", url=f"https://t.me/XFLSkyzo"
+            text="ᴄʀᴇᴀᴛᴏʀ", url=f"https://t.me/ELECTRO_444"
         ),
     ],
     [
@@ -106,10 +105,10 @@ HELP_STRINGS = """
 **ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ**[.](https://telegra.ph/file/3c16568ffc8bb284d6dc6.jpg)
 """
 
-Kaneki_IMG = "https://telegra.ph/file/3c16568ffc8bb284d6dc6.jpg"
+Kaneki_IMG = "https://telegra.ph/file/7d8545599d3259b75a262.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project [Skyzo](t.me/XFLSkyzo) \
+ You can support the project [ELECTRO 444](t.me/ELECTRO_444) \
  Supporting isnt always financial! [All about music](t.me/userbot_support_id) \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 

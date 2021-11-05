@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://telegra.ph/file/03cb0bd528c916510ea52.jpg">
+   <img src="https://telegra.ph/file/4f6700fee08cd9d75e76c.jpg">
 </p>
 
 # Flicks X
@@ -7,10 +7,10 @@
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database.
 
-### Found me on telegram [Flicks Bot](https://t.me/FlicksManagerBot)
+### Found me on telegram [EO BOTS](https://t.me/EO_GROUP_MANAGER_BIT)
 
 ## DEPLOY ON HEROKU :
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ridho17-ind/Flicks-Robot/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/electro444/Flicks-Robot)
 
 

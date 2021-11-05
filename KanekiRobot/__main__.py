@@ -89,7 +89,7 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="ɢʀᴏᴜᴘ sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/Userbot_Support_Id"),
+        InlineKeyboardButton(text="ɢʀᴏᴜᴘ sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/eosupportff"),
         InlineKeyboardButton(
             text="ᴄʀᴇᴀᴛᴏʀ", url=f"https://t.me/ELECTRO_444"
         ),
@@ -102,10 +102,10 @@ buttons = [
 
 HELP_STRINGS = """
 **ʜᴀɪ**
-**ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ**[.](https://telegra.ph/file/3c16568ffc8bb284d6dc6.jpg)
+**ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ**[.](https://telegra.ph/file/4f6700fee08cd9d75e76c.jpg)
 """
 
-Kaneki_IMG = "https://telegra.ph/file/7d8545599d3259b75a262.jpg"
+Kaneki_IMG = "https://telegra.ph/file/4f6700fee08cd9d75e76c.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project [ELECTRO 444](t.me/ELECTRO_444) \
